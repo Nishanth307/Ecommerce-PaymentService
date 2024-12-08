@@ -1,0 +1,8 @@
+postman for callback url:
+initiate Request payment DTO
+{
+    "orderId": "120",
+    "amount": "1000",
+    "phoneNumber": "+919390660878",
+    "email": "nishanthprabhu0@gmail.com"
+}
